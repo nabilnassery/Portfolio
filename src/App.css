@@ -16,7 +16,9 @@ body {
 	text-transform: uppercase;
 	letter-spacing: .02em;
 	text-align: center;
-	color: #44545E;
+	/* color: #44545E; */
+	color: black;
+
 }
 
 /* Responsive images */
@@ -138,7 +140,8 @@ section {
 }
 
 .callout {
-	background-color: #CFF2F6;
+	/* background-color: #CFF2F6; */
+	background-color: #3500D3;
 }
 
 /* ----------------------------------------
@@ -295,7 +298,8 @@ input, textarea {
 Footer
 ------------------------------------------- */
 footer {
-	background-color: #CDF3F6;
+	/* background-color: #CDF3F6; */
+	background-color: #3500D3;
 	overflow: auto;
 }
 

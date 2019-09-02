@@ -7,8 +7,8 @@ const Header = () => {
     return (
       <header className="vertical-center header-landing">
         <div>
-          <h1><a href="/">Monument</a></h1>
-          <h2>A Lifestyle Magazine</h2>
+          <h1><a href="/">Nabil Nassery</a></h1>
+          <h2>Software Engineer</h2>
         </div>
       </header>
     )

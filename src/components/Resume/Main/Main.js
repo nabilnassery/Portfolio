@@ -6,7 +6,15 @@ import './Main.css';
 
 const Main = () => {
         return (
-            <div class="wrap grid-wrapper">
+			<>
+            	<img src="https://i.imgur.com/UPcQIYo.jpg" alt=""/>
+			</>
+        )
+}
+
+export default Main;
+
+{/* <div class="wrap grid-wrapper">
                 <section>
                     <article>
                         <h3>11/23/2016</h3>
@@ -34,8 +42,4 @@ const Main = () => {
 			</ul>
 		</aside>
 		
-	</div>
-        )
-}
-
-export default Main;
+	</div> */}
