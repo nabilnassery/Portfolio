@@ -4,7 +4,7 @@ const Contact = () => {
     return (
       <section id="contact">
         <div className="wrap">
-        <h2>Get in Touch</h2>
+        <h2 className="black-text">Get in Touch</h2>
           <form className="contact">
             <input type="text" placeholder="Full Name" className="col-third" />
             <input type="email" placeholder="Email" className="col-third" />
